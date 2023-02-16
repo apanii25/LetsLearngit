@@ -33,7 +33,6 @@ int main(){
     cout<<"enter number"<<endl;
     cin>>num;
     cout<<"Prime number program using SOE";
-    cout<<"Lets Learn Git by anuj bhaiya";
     cout<<"count of prime numbers = "<<primenum(num);
 }
 
